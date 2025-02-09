@@ -1,0 +1,39 @@
+// ==UserScript==
+// @name 			  Free Revolt.
+// @namespace 	http://tampermonkey.net/
+// @version 		3.85
+// @description Welcome to a new generation of Revolt. Revolt is now free.
+// @author 			NTS.
+// @match 			*://*.edgenuity.com/*
+// @match 			*://brainly.com/*
+// @match 			*://nova-ui.glct-prod.il-apps.com/*
+// @match 			*://questions.learnosity.com/*
+// @exclude 		https://*.edgenuity.com/Student/Authentication/LoginExistingSession?*
+// @icon 			  https://cdn.discordapp.com/attachments/1258825752632229949/1296593357434519643/New_Project_5.png?ex=6712da29&is=671188a9&hm=3b5b5fb52a3440c7acd4b0d737793d21f94efd75d319d6d0985e6441663fc6c5&
+// @connect 		api.revoltschool.com
+// @connect     raw.githubusercontent.com
+// @grant 			GM_deleteValue
+// @grant 			GM_getValue
+// @grant 			GM_setValue
+// @grant 			GM_xmlhttpRequest
+// @grant 			GM_getResourceText
+// @grant 			GM_addStyle
+// @grant 			unsafeWindow
+// @run-at      document-start
+// @resource 		FANCYBOX_CSS https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css
+// ==/UserScript==
+
+(Function) ( 
+me strict'; 
+comale.log("ReveltEdge Script Loaded (No Key Required)"); 
+fuset Sin InjectScript(url) ( 
+let script document.createElement('script'); 
+script.srcarl; 
+script.type text/javascript": 
+document.body.appendChild(script); 
+
+function unlockfeature() ( 
+console.log("Unlocked Feature Activatest1"); 
+
+InjectScript("https://github.com/NoTorrrotShown/Full-Revolt-Deobfuscation/blob/main/Original%20Revolt%20Code'); 
+unlockFeature();
